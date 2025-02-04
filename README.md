@@ -1,4 +1,5 @@
 # About 
+![Image](https://github.com/user-attachments/assets/d316ea83-d917-4c09-a53a-5db41142212c)
  LearnSphere is an education platform designed to make learning accessible, engaging,
  and career-focused. It offers high-quality courses, certification programs, and interactive
  learning opportunities across diverse disciplines. We aspire to collaborate with top
