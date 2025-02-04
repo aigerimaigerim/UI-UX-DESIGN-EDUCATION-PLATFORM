@@ -16,3 +16,11 @@
  • Entrepreneurs
  • Big companies
  • Students
+
+ # Link to the Landing Page on Figma:
+ https://www.figma.com/proto/flWysTvsGt4KTgCZW903Q2/landing-page-high-fi?pag
+ e-id=0%3A1&node-id=1-144&starting-point-node-id=1%3A144&t=2upnWxzijMPqpDbx-1
+
+  # Link to the Monile Applicarion Design on Figma:
+  https://www.figma.com/design/tNn7pWRvUTM5OSUZUWK3gj/Practice-Assignmnet
+ s?node-id=0-1&t=6qh8Z8s1Ub33fp0h-1
