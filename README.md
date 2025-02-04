@@ -25,5 +25,4 @@
 )
 
   # Link to the Mobile Application Design on Figma:
-  https://www.figma.com/design/tNn7pWRvUTM5OSUZUWK3gj/Practice-Assignmnet
- s?node-id=0-1&t=6qh8Z8s1Ub33fp0h-1
+ https://www.figma.com/design/tNn7pWRvUTM5OSUZUWK3gj/Practice-Assignmnets?node-id=0-1&t=6qh8Z8s1Ub33fp0h-1
